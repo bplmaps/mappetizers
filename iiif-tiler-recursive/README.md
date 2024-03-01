@@ -12,15 +12,25 @@ This script's behavior is to:
     3. run `iiif-tiler.jar` on this file
     4. once the image is tiled, `cd ..` into parent directory
 
-This
+It's completely dependent on a good directory structure and machine-sortable, metadata-driven file names. You might need to test it a few times to make sure the output tile pyramids are landing in a suitable order.
 
 ## Use
 
-To use the script, download this repo as a `.zip` file.
+Prepare a directory structure for the script resembling:
+1. Download `recursiveTiler.jar`
+2. Download the latest release of [Glen Robson's IIIF tiler](https://github.com/glenrobson/iiif-tiler/releases)
+3. Move both of them into the same directory
+4. Move the images that you need to IIIF-ify into the same directory
 
-Figure out how you want the IIIF pyramids to be sorted and organized.
+To run the script simply `cd` into that directory and:
 
-For example, let's say you are tiling a bunch of images for an LMEC digital exhibition. You might use the following directory structure:
+    bash recursiveTiler.sh
+
+**Before running the script, ensure that your file nomenclature makes sense, and that lines 12-13 of the bash are parsing the file names to your desired length.**
+
+## Sample directory structure
+
+Let's say you are tiling a bunch of images for an LMEC digital exhibition. You might use the following directory structure:
 
     tileImagesForExhibition/
     ├─ recursiveTiler.sh
