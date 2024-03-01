@@ -5,7 +5,7 @@ Recursively tile high-resolution images with this bash script. IIIF tiler script
 ## Behavior
 
 This script's behavior is to:
-1. `cd` into each directory
+1. `cd` into every directory at the current level
 2. for each file (image) in that directory:
     1. make a new subdirectory named for this file, to a user-defined character limit
     2. `cd` into that new subdirectory
