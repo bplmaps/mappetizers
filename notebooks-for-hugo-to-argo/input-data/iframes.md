@@ -1,0 +1,692 @@
+content/subscribe.md:
+  12  
+  13: <iframe data-tally-src="https://tally.so/embed/wgdZGJ?alignLeft=1&hideTitle=1&transparentBackground=1&dynamicHeight=1" loading="lazy" width="100%" height="539" frameborder="0" marginheight="0" marginwidth="0" title="Get maps in your mailbox"></iframe><script>var d=document,w="https://tally.so/widgets/embed.js",v=function(){"undefined"!=typeof Tally?Tally.loadEmbeds():d.querySelectorAll("iframe[data-tally-src]:not([src])").forEach((function(e){e.src=e.dataset.tallySrc}))};if("undefined"!=typeof Tally)v();else if(d.querySelector('script[src="'+w+'"]')==null){var s=d.createElement("script");s.src=w,s.onload=v,s.onerror=v,d.body.appendChild(s);}</script>
+  14  
+
+content/articles/a-map-less-map-of-political-geography-in-the-us.md:
+  19  <div class="glitch-embed-wrap my-3" style="height: 600px; width: 100%;">
+  20: <iframe
+  21  allow="geolocation; microphone; camera; midi; encrypted-media"
+
+content/articles/afro-asian-diaspora-eaton-sisters.md:
+  83    <div class="row">
+  84:     <iframe src="https://storymaps.arcgis.com/stories/7176a34cff7545aea622c9b5aaa1d3bc" width="100%" height="800px" frameborder="0" allowfullscreen allow="geolocation"></iframe>
+  85    </div>
+
+content/articles/archaeology-and-atlascope.md:
+  12  
+  13: <iframe width="100%" height="550" src="https://atlascope.leventhalmap.org/#view:embed$base:000$overlay:39999059011690$zoom:18.00$center:-7912249.749638192,5213474.650418332$mode:opacity$pos:42" title="Map of Boston Public Library at Copley Square"></iframe>
+  14  
+
+  28  
+  29: <iframe width="100%" height="550" src="https://atlascope.leventhalmap.org/#view:embed$base:000$overlay:39999059012037$zoom:18.00$center:-7910557.544745758,5216808.207878362$mode:glass$pos:585" title="Map of City Square in Charlestown"></iframe>
+  30  
+
+  36  
+  37: <iframe width="100%" height="550" src="https://atlascope.leventhalmap.org/#view:embed$base:001$overlay:39999059010866$zoom:18.00$center:-7910515.559334804,5206542.098404625$mode:glass$pos:389" title="Map of Ronan Park where a sinkhole was discovered in December"></iframe>
+  38  
+
+  44  
+  45: <iframe width="100%" height="550" src="https://atlascope.leventhalmap.org/#view:embed$base:000$overlay:39999059012045$zoom:18.39$center:-7909951.307967084,5215090.751531916$mode:glass$pos:586" title="Map of the area next to Faneuil Hall, which was razed and built on right before this map was created"></iframe>
+  46  
+
+  50  
+  51: <iframe width="100%" height="550" src="https://atlascope.leventhalmap.org/#view:embed$base:001$overlay:39999059010908$zoom:19.07$center:-7910293.983389088,5214944.858871568$mode:glass$pos:586" title="Scollay Square map overlaid on a modern aerial view of the intersection"></iframe>
+  52  
+
+content/articles/Atlascope-Research-from-Summer-2024-Interns.md:
+  59  
+  60: <iframe src="https://www.atlascope.org/#/view:share$mode:glass$center:-71.08654,42.33927$zoom:17.82$base:maptiler-streets$overlay:ark:/76611/al7rtfm98" width="100%" height="400px" caption="An Atlascope view of the round house of the Boston & Rhode Island railway that sits on today's Northeastern University campus."></iframe><br><br>
+  61  
+
+content/articles/before-displacement-part-two.md:
+  31  
+  32: <iframe src="https://atlascope.org/#/view:share$mode:glass$center:-71.05745,42.36280$zoom:20.26$base:maptiler-streets$overlay:ark:/76611/al7qfwyqb" width="100%" height="400"></iframe>
+  33  
+
+  41  
+  42: <iframe src="https://atlascope.org/#/view:share$mode:glass$center:-71.05067,42.35772$zoom:18.11$base:maptiler-streets$overlay:ark:/76611/al8c31qra" width="100%" height="400"></iframe>
+  43  
+
+  51  
+  52: <iframe src="https://atlascope.org/#/view:share$mode:glass$center:-71.05564,42.36198$zoom:19.47$base:maptiler-streets$overlay:ark:/76611/al890pyr8" width="100%" height="400"></iframe>
+  53  
+
+  59  
+  60: <iframe src="https://atlascope.org/#/view:share$mode:glass$center:-71.05488,42.36111$zoom:19.09$base:maptiler-streets$overlay:ark:/76611/al7qfwyqb" width="100%" height="400"></iframe>
+  61  
+
+  67  
+  68: <iframe src="https://atlascope.org/#/view:share$mode:glass$center:-71.05652,42.36348$zoom:19.40$base:maptiler-streets$overlay:ark:/76611/al7s13kaf" width="100%" height="400"></iframe>
+  69  
+
+content/articles/before-displacement.md:
+   54  
+   55: <iframe width="100%" height="400" src="https://atlascope.leventhalmap.org/#view:embed$base:000$overlay:39999059011526$zoom:19.32$center:-7910318.662288891,5213631.324780119$mode:glass$pos:289"></iframe>
+   56  
+
+   71  
+   72: <iframe width="100%" height="400" src="https://atlascope.leventhalmap.org/#view:embed$base:000$overlay:39999085945739$zoom:19.75$center:-7909615.243442572,5214169.603584346$mode:glass$pos:289"></iframe>
+   73  
+
+   87  
+   88: <iframe width="100%" height="400" src="https://atlascope.leventhalmap.org/#view:embed$base:000$overlay:39999059011690$zoom:18.26$center:-7909440.828439227,5215145.796240358$mode:glass$pos:342"></iframe>
+   89  
+
+  104  
+  105: <iframe width="100%" height="400" src="https://atlascope.leventhalmap.org/#view:embed$base:000$overlay:39999085945739$zoom:18.64$center:-7910018.230601404,5215448.182299385$mode:glass$pos:342"></iframe>
+  106  
+
+content/articles/birds-eye-cards.md:
+  19  <div class="glitch-embed-wrap" style="height: 486px; width: 100%; margin-top: 15px; margin-bottom: 40px;">
+  20: <iframe
+  21  allow="geolocation; microphone; camera; midi; encrypted-media"
+
+  53  <div class="glitch-embed-wrap" style="height: 486px; width: 100%; margin-top: 15px; margin-bottom: 40px;">
+  54: <iframe
+  55  allow="geolocation; microphone; camera; midi; encrypted-media"
+
+content/articles/black-radical-history-research-at-lmec.md:
+  44  
+  45: <iframe width="600" height="550" src="https://atlascope.leventhalmap.org/#view:embed$base:000$overlay:39999059011401$zoom:20.00$center:-7910676.648534665,5207987.767339096$mode:glass$pos:385" title="Close-up of a circle of an old map imposed on a modern basemap, with a building at the center labeled with the name Geraldine L. Trotter."></iframe>
+  46  
+
+content/articles/boston-brewin.md:
+  37  
+  38: <iframe width="100%" height="550" src="https://atlascope.org/#/view:share$mode:swipe-x$center:-71.04734,42.35165$zoom:19.00$base:massgis-2023-orthos$overlay:ark:/76611/al88svmi0" title="What's brewin' in Fenway-Kenmore"></iframe>
+  39  
+
+  44  
+  45: <iframe width="100%" height="550" src="https://atlascope.org/#/view:share$mode:swipe-x$center:-71.09470,42.34705$zoom:18.66$base:massgis-2023-orthos$overlay:ark:/76611/al7s13kaf" title="What's brewin' in Fenway-Kenmore"></iframe>
+  46  
+
+  53  
+  54: <iframe width="100%" height="550" src="https://atlascope.org/#/view:share$mode:swipe-x$center:-71.06217,42.32210$zoom:19.00$base:massgis-2023-orthos$overlay:ark:/76611/al8bxgkos" title="What's brewin' in Dorchester"></iframe>
+  55  
+
+  60  
+  61: <iframe width="100%" height="550" src="https://atlascope.org/#/view:share$mode:swipe-x$center:-71.10856,42.32774$zoom:19.00$base:massgis-2023-orthos$overlay:ark:/76611/al8c19lmr" title="What's brewin' in JP"></iframe>
+  62  
+
+content/articles/boston-s-oldest-buildings-and-where-to-find-them-on-atlascope.md:
+  18  
+  19: <iframe width="100%" height="550" src="https://atlascope.leventhalmap.org/#view:embed$base:39999059011690$overlay:39999085945739$zoom:20.00$center:-7910186.299256487,5214690.299087005$mode:glass$pos:238"></iframe>
+  20  
+
+  24  
+  25: <iframe width="100%" height="550" src="https://atlascope.leventhalmap.org/#view:embed$base:000$overlay:39999059011153$zoom:20.00$center:-7909658.334139793,5215616.32572751$mode:glass$pos:278"></iframe>
+  26  
+
+  30  
+  31: <iframe width="100%" height="550" src="https://atlascope.leventhalmap.org/#view:embed$base:000$overlay:39999085945739$zoom:20.00$center:-7910956.595184353,5214883.466626777$mode:glass$pos:335"></iframe>
+
+content/articles/brownies-book-in-boston.md:
+  29  
+  30: <iframe width="100%" height="488" frameborder="0" title="Felt Map" src="https://felt.com/embed/map/The-Brownies-Book-in-Greater-Boston-and-Surrounding-Areas-1920-1921-Ua13bPQpTXGoc9Ccky4DNvB?loc=42.821%2C-71.739%2C7.02z&legend=1&cooperativeGestures=1&link=1&geolocation=0&zoomControls=1&scaleBar=1" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+  31  
+
+content/articles/chinese-maritime-map.md:
+  12  
+  13: <iframe width="100%" height="400" src="https://www.youtube.com/embed/rn6-mctB4Os" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+content/articles/crb-map-remix.md:
+  47  
+  48: <iframe width="100%" height="550" src="https://map-remix.glitch.me/" title="Map Remix"></iframe>
+
+content/articles/growing-cities.md:
+  67  
+  68: <iframe width="100%" height="847" frameborder="0"
+  69    src="https://observablehq.com/embed/d6423908042db360@117?cells=viewof+censusYear%2Cmap"></iframe>
+
+content/articles/Highlights-from-From-The-Vault-Mechanical-Maps.md:
+  21  
+  22: <iframe width="560" height="315" src="https://www.youtube.com/embed/Y_Cl_QXNqbY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  23  
+
+  27  
+  28: <iframe width="315" height="560" src="https://youtube.com/embed/ZqST2F-YUQE?feature=share" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  29  
+
+content/articles/highlights-from-ftv-boylston.md:
+  45  
+  46: <iframe src="https://atlascope.org/#/view:share$mode:glass$center:-71.07480,42.35063$zoom:18.44$base:maptiler-streets$overlay:ark:/76611/al89922k7" height="400" width="100%"></iframe>
+  47  
+
+content/articles/highlights-from-jamaica-plain-by-map.md:
+  14  
+  15: <iframe width="100%" height="550" src="https://atlascope.leventhalmap.org/#view:embed$base:001$overlay:39999059010718$zoom:16.05$center:-7914097.059288418,5212795.216296701$mode:swipe-y$pos:0.545"></iframe>
+  16  
+
+  18  
+  19: <iframe width="100%" height="550" src="https://atlascope.leventhalmap.org/#view:embed$base:39999059011914$overlay:39999059010718$zoom:17.77$center:-7914250.983464948,5211494.935039469$mode:swipe-x$pos:0.2700892857142857"></iframe>
+  20  
+
+  30  
+  31: <iframe width="100%" height="550" src="https://atlascope.leventhalmap.org/#view:embed$base:39999059011468$overlay:39999059011013$zoom:16.93$center:-7917164.2124534035,5208485.021079553$mode:glass$pos:307"></iframe>
+  32  
+
+  38  
+  39: <iframe width="100%" height="550" src="https://atlascope.leventhalmap.org/#view:embed$base:39999059011468$overlay:39999059010684$zoom:15.46$center:-7916054.298647897,5206479.213899197$mode:swipe-y$pos:0.6328331862312445"></iframe>
+  40  
+
+  42  
+  43: <iframe width="100%" height="550" src="https://atlascope.leventhalmap.org/#view:embed$base:000$overlay:39999059011914$zoom:17.76$center:-7915068.929550639,5209766.904113233$mode:glass$pos:487"></iframe>
+  44  
+
+  50  
+  51: <iframe width="700" height="550" src="https://atlascope.leventhalmap.org/#view:embed$base:001$overlay:39999059011013$zoom:20.00$center:-7915436.747289696,5208669.482803653$mode:glass$pos:487"></iframe>
+  52  
+
+  56  
+  57: <iframe width="100%" height="550" src="https://atlascope.leventhalmap.org/#view:embed$base:001$overlay:39999059011872$zoom:20.00$center:-7915687.556214813,5209159.224172146$mode:glass$pos:487"></iframe>
+  58  
+
+content/articles/k12-round-up.md:
+  37  
+  38: <iframe width="560" height="315" src="https://www.youtube.com/embed/Ak0nDQpNOe0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  39  
+
+content/articles/mapping-black-cambridge.md:
+  28  
+  29: <iframe width="100%" height="488" frameborder="0" title="Felt Map" src="https://felt.com/embed/map/Mapping-Black-Cambridge-1790-1820-Snapshots-from-the-First-Four-Federal-Censuses-lKj29B5GvTRq9AyB9AJyl9BN4B?loc=42.36967%2C-71.09789%2C12.91z&legend=1&cooperativeGestures=1&link=1&geolocation=0&zoomControls=1&scaleBar=1" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+  30  
+
+content/articles/mapping-denmark.md:
+  53  
+  54: <iframe src="https://archive.org/embed/tragedyofhamletp00shak_6/page/n1/mode/2up" width="100%" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+  55  
+
+content/articles/massdot-town-corners.md:
+  22  
+  23: <iframe width="100%" height="550" src="https://geoservices.leventhalmap.org/town-corners/" ></iframe>
+  24  
+
+content/articles/mhp-interview.md:
+  93  
+  94: <iframe width="100%" height="550" src="https://neighbors-in-name-only.glitch.me/">></iframe>
+  95  
+
+content/articles/neighbors-in-name-only.md:
+  18  
+  19: <div class="glitch-embed-wrap mt-2" style="height: 800px; width: 100%;"> <iframe src="https://glitch.com/embed/#!/embed/neighbors-in-name-only?path=README.md&previewSize=100" title="neighbors-in-name-only on Glitch" allow="geolocation; microphone; camera; midi; vr; encrypted-media" style="height: 100%; width: 100%; border: 0;"> </iframe> </div>
+
+content/articles/newsmaps.md:
+  40  
+  41: <div style="overflow:hidden;padding-bottom:56.25%;position:relative;height:0;"><iframe style="left:0;top:0;height:100%;width:100%;position:absolute;" src="https://digital.library.unt.edu/media/assets/public/js/vendor/universal-viewer/uv.html#?manifest=/ark:/67531/metadc840/manifest/&c=0&m=0&s=0&cv=0&config=https://digital.library.unt.edu/media/assets/public/js/vendor/universal-viewer/aubrey-config.json&locales=&xywh=" allowfullscreen></iframe></div>
+
+content/articles/newton-by-map.md:
+  14  
+  15: <iframe width="100%" height="550" src="https://atlascope.leventhalmap.org/#view:embed$base:39999059015832b$overlay:39999059015832a$zoom:15.87$center:-7925082.235453294,5214330.75325575$mode:glass$pos:228"></iframe>
+  16  
+
+  22  
+  23: <iframe width="100%" height="550" src="https://atlascope.leventhalmap.org/#view:embed$base:39999059015808$overlay:39999059015832b$zoom:17.45$center:-7926546.537367387,5215117.366282928$mode:swipe-x$pos:0.5019633507853403"></iframe>
+  24  
+
+  30  
+  31: <iframe width="100%" height="550" src="https://atlascope.leventhalmap.org/#view:embed$base:000$overlay:39999059015840a$zoom:18.06$center:-7931991.863815056,5209811.0308461245$mode:glass$pos:601"></iframe>
+  32  
+
+content/articles/one-year-of-remote-programming.md:
+  20  
+  21: <iframe width="100%" height="315" src="https://www.youtube.com/embed/jvBcezpYkvQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  22  
+
+  26  
+  27: <iframe width="100%" height="315" src="https://atlascope.leventhalmap.org/#view:embed$base:000$overlay:39999059011690$zoom:18.00$center:-7912349.11775309,5213465.57356861$mode:glass$pos:132"></iframe>
+  28  
+
+  32  
+  33: <iframe width="100%" height="315" src="https://www.youtube.com/embed/14lAiIuY9oU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  34  
+
+  40  
+  41: <iframe class="airtable-embed" src="https://airtable.com/embed/shrUVzlo5NEbjYUss?backgroundColor=blue&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+  42  
+
+content/articles/Section-112-in-the-Boston-Region-Universities-Hospitals-and-Urban-Renewal.md:
+  39  
+  40: <iframe width="100%" height="488" frameborder="0" title="Felt Map" src="https://felt.com/embed/map/Section-112-in-the-Boston-Region-copy-cVLp4AZzRRyX3Jt7T8UE9AA?loc=42.35639%2C-71.08361%2C13.61z&legend=1&cooperativeGestures=1&link=1&geolocation=0&zoomControls=1&scaleBar=1" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+  41  
+
+content/articles/showtime-in-downtown-boston.md:
+  20  
+  21: <iframe width="600" height="550" src="https://atlascope.leventhalmap.org/#view:embed$base:000$overlay:39999059012045$zoom:20.00$center:-7910656.661198085,5214204.195716886$mode:glass$pos:196"></iframe>
+  22  
+
+  24  
+  25: <iframe width="600" height="550" src="https://atlascope.leventhalmap.org/#view:embed$base:39999059011682$overlay:39999059011526$zoom:18.81$center:-7910669.7252482,5214150.160095448$mode:swipe-x$pos:0.4757853403141361"></iframe>
+  26  
+
+content/articles/six-news-stories-from-2020-seen-through-atlascope.md:
+  20  
+  21: <iframe width="100%" height="550" src="https://atlascope.leventhalmap.org/#view:embed$base:000$overlay:39999059011252$zoom:17.04$center:-7910924.723963515,5202582.260719354$mode:glass$pos:430" caption="test"></iframe>
+  22  
+
+  26  
+  27: <iframe width="100%" height="550" src="https://atlascope.leventhalmap.org/#view:embed$base:000$overlay:39999059011690$zoom:17.93$center:-7909438.468902829,5215211.567188511$mode:glass$pos:318"></iframe>
+  28  
+
+  32  
+  33: <iframe width="100%" height="550" src="https://atlascope.leventhalmap.org/#view:embed$base:000$overlay:39999059011492$zoom:20.00$center:-7912363.79500048,5212816.533775284$mode:glass$pos:292"></iframe>
+  34  
+
+  38  
+  39: <iframe width="100%" height="550" src="https://atlascope.leventhalmap.org/#view:embed$base:001$overlay:39999059010866$zoom:18.00$center:-7910515.559334804,5206542.098404625$mode:glass$pos:389"></iframe>
+  40  
+
+  44  
+  45: <iframe width="100%" height="550" src="https://atlascope.leventhalmap.org/#view:embed$base:39999059011260$overlay:39999059011492$zoom:19.19$center:-7910953.413123263,5213060.397633619$mode:swipe-x$pos:0.2019157088122606"></iframe>
+  46  
+
+  50  
+  51: <iframe width="100%" height="550" src="https://atlascope.leventhalmap.org/#view:embed$base:39999059015550$overlay:39999059015667$zoom:16.44$center:-7919104.519702201,5220354.70920506$mode:swipe-y$pos:0.587149187592319"></iframe>
+
+content/articles/spotlighting-the-work-of-our-teen-curators.md:
+  34  
+  35: <iframe width="560" height="315" src="https://www.youtube.com/embed/fqyNER388SY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  36  
+
+  56  
+  57: <iframe width="560" height="315" src="https://www.youtube.com/embed/x1SE04VBXSw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  58  
+
+  78  
+  79: <iframe width="560" height="315" src="https://www.youtube.com/embed/ccFhD2T79rM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  80  
+
+content/articles/tribute-and-territory-in-the-pequot-country.md:
+  29  <section class="paneltruck-section-inline">
+  30:   <iframe class="paneltruck-iframe" allowfullscreen src="https://geoservices.leventhalmap.org/panel-truck/panel-truck-wrapper/index.html#alice-king-seller-screenplay">  
+  31    </iframe>
+
+  58  <section class="paneltruck-section-inline">
+  59:   <iframe class="paneltruck-iframe" allowfullscreen src="https://geoservices.leventhalmap.org/panel-truck/panel-truck-wrapper/index.html#alice-king-foster-screenplay">  
+  60    </iframe>
+
+  72  <section class="paneltruck-section-inline">
+  73:   <iframe class="paneltruck-iframe" allowfullscreen src="https://geoservices.leventhalmap.org/panel-truck/panel-truck-wrapper/index.html#alice-king-sachem-screenplay">  
+  74    </iframe>
+
+content/articles/waltham-urban-atlas-essays.md:
+   40  
+   41: <iframe src="https://viewer.allmaps.org/?url=https%3A%2F%2Fannotations.allmaps.org%2Fmaps%2F460e84322938aa85" width=100% height="500">This [Sanborn map](https://www.loc.gov/resource/g3764wm.g038731950/?sp=64), georeferenced using Allmaps, shows important buildings around the Brandeis University campus between 1918 and 1950</iframe>
+   42  <br></br>
+
+   55  
+   56: <iframe src="https://viewer.allmaps.org/?url=https%3A%2F%2Fannotations.allmaps.org%2Fmaps%2F6dbdb179fd9ca032" width=100% height="500">Sanborn Fire Insurance Map from Waltham, Middlesex County, Massachusetts Image 34 (1950) (from [Library of Congress](https://www.loc.gov/item/sanborn03873_006/))</iframe>
+   57  
+
+  164  
+  165: <iframe src="https://viewer.allmaps.org/?url=https%3A%2F%2Fannotations.allmaps.org%2Fimages%2F4bc7458edf78cc53" width=100% height="500">This [Sanborn map](https://www.loc.gov/resource/g3764wm.g038731950/?sp=64), georeferenced using Allmaps, shows important buildings around the Brandeis University campus between 1918 and 1950</iframe>
+  166  <br></br>
+
+content/articles/welcome-fall-2023-interns.md:
+  36  
+  37: <iframe src="https://www.atlascope.org/#/view:tour$tour:381493013795307584" frameborder="0" onmousewheel="" width="100%" height="600" style="background: transparent; border: 1px solid #ccc;"></iframe>
+  38  
+
+  52  
+  53: <iframe src="https://www.atlascope.org/#/view:tour$tour:385205344314327104" frameborder="0" onmousewheel="" width="100%" height="600" style="background: transparent; border: 1px solid #ccc;"></iframe>
+  54  
+
+  68  
+  69: <iframe src="https://www.atlascope.org/#/view:tour$tour:382293167393734720" frameborder="0" onmousewheel="" width="100%" height="600" style="background: transparent; border: 1px solid #ccc;"></iframe>
+  70  
+
+content/collections/acquisitions.md:
+  15  
+  16: <iframe class="airtable-embed" src="https://airtable.com/embed/shr0RgG4AfpROgnqH?backgroundColor=green&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+  17  
+
+content/collections/reproductions.md:
+  21  
+  22: <iframe class="airtable-embed" src="https://airtable.com/embed/shrGmoZaVLy4QCWQA?backgroundColor=gray" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+
+content/donate/donor-survey.md:
+  11  
+  12: <iframe data-tally-src="https://tally.so/embed/w8zJxo?alignLeft=1&transparentBackground=1&dynamicHeight=1" loading="lazy" width="100%" height="2134" frameborder="0" marginheight="0" marginwidth="0" title="Feedback for Leventhal Center Supporters"></iframe><script>var d=document,w="https://tally.so/widgets/embed.js",v=function(){"undefined"!=typeof Tally?Tally.loadEmbeds():d.querySelectorAll("iframe[data-tally-src]:not([src])").forEach((function(e){e.src=e.dataset.tallySrc}))};if("undefined"!=typeof Tally)v();else if(d.querySelector('script[src="'+w+'"]')==null){var s=d.createElement("script");s.src=w,s.onload=v,s.onerror=v,d.body.appendChild(s);}</script>
+
+content/education/university.md:
+  32  
+  33: <iframe data-tally-src="https://tally.so/embed/nraLoX?alignLeft=1&hideTitle=1&transparentBackground=1&dynamicHeight=1" loading="lazy" width="100%" height="1581" frameborder="0" marginheight="0" marginwidth="0" title="Leventhal Map & Education Center University Visit Scheduling Request"></iframe><script>var d=document,w="https://tally.so/widgets/embed.js",v=function(){"undefined"!=typeof Tally?Tally.loadEmbeds():d.querySelectorAll("iframe[data-tally-src]:not([src])").forEach((function(e){e.src=e.dataset.tallySrc}))};if("undefined"!=typeof Tally)v();else if(d.querySelector('script[src="'+w+'"]')==null){var s=d.createElement("script");s.src=w,s.onload=v,s.onerror=v,d.body.appendChild(s);}</script>
+  34  
+
+content/event/A-Look-Behind-Processing-Place-How-Computers-and-Cartographers-Redrew-our-World.md:
+  23  
+  24: <iframe width="560" height="315" src="https://www.youtube.com/embed/jXHPar8nGgs?si=5MUlOvMft8U7zcC_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
+  25  
+
+content/event/amy-finstein-nov-16.md:
+  14  
+  15: <iframe width="560" height="315" src="https://www.youtube.com/embed/yDQ6Oy8rvPk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  16  
+
+content/event/ashland-by-map.md:
+  14  
+  15: <iframe width="560" height="315" src="https://www.youtube.com/embed/seG_AunUBbM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  16  
+
+content/event/bending-lines-map-back-at-you-with-the-community-care-cooperative.md:
+  14  
+  15: <iframe width="560" height="315" src="https://www.youtube.com/embed/SWz-DGrGvjU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  16  
+
+content/event/benjamin-l.carp-on-geographies-of-the-revolution.md:
+  20  
+  21: <iframe width="560" height="315" src="https://www.youtube.com/embed/P1hpUazmU2Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  22  
+
+content/event/boston-by-map-1.md:
+  22  
+  23: <iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=cVxz-pXXAUywrgn6dBWysb2FFpvO56VHipRPYl45uI5UM0w3TkdSSUdRQ1BVRVJCRDE3OFBWQ1dTOS4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
+
+content/event/boston-by-map-2.md:
+  24  
+  25: <iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=cVxz-pXXAUywrgn6dBWysb2FFpvO56VHipRPYl45uI5UNFlDVUdJUjdDQldBSVg0TE9RM0czSUhKUi4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
+
+content/event/boston-by-map-3-17.md:
+  22  
+  23: <iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=cVxz-pXXAUywrgn6dBWysb2FFpvO56VHipRPYl45uI5UQUIwNEpQUEgzM0NWQkZFMEpJOFFLQTkzTC4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
+
+content/event/boston-by-map-4-21.md:
+  22  
+  23: <iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=cVxz-pXXAUywrgn6dBWysb2FFpvO56VHipRPYl45uI5UOEJVR0VBNFJPMVg1VUdBMzBFTFlNSjhLUC4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
+
+content/event/boston-by-map.md:
+  14  
+  15: <iframe width="560" height="315" src="https://www.youtube.com/embed/4yXA6nnvUMk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  16  
+
+content/event/brighton-by-map.md:
+  13  ### Event video 
+  14: <iframe width="560" height="315" src="https://www.youtube.com/embed/LEdC8fQAS2k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  15  
+
+content/event/brookline-by-map.md:
+  14  
+  15: <iframe width="560" height="315" src="https://www.youtube.com/embed/6NS5lhB2glY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  16  
+
+content/event/brueckner-love-of-maps.md:
+  21  
+  22: <iframe width="560" height="315" src="https://www.youtube.com/embed/S2Lv2Rf6nro?si=3vIoPtAjJEDVMq2X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  23  
+
+content/event/cambridge-by-map.md:
+  14  
+  15: <iframe width="560" height="315" src="https://www.youtube.com/embed/riD6_FDWuYw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  16  
+
+content/event/communicating-climate-risk.md:
+  16  
+  17: <iframe width="560" height="315" src="https://www.youtube.com/embed/5-XbUBN63Ks" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  18  
+
+content/event/continued-conversations-urban-development-and-community-resilience.md:
+  18  
+  19: <iframe width="560" height="315" src="https://www.youtube.com/embed/hvvMPWMarEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  20  
+
+content/event/critical-map-reading-in-the-age-of-misinformation.md:
+  15  
+  16: <iframe width="560" height="315" src="https://www.youtube.com/embed/9T2HfKUjtPI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  17  
+
+content/event/dawnland-dear-georgina-live-online-film-screening-and-q-a.md:
+  17  
+  18: <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/227346667?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+  19  
+
+content/event/dr.carolyn-finney-black-faces-white-spaces-reimagining-the-relationship-of-african-americans-to-the-great-outdoors.md:
+  18  
+  19: <iframe width="560" height="315" src="https://www.youtube.com/embed/VPmCUkMOnQI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  20  
+
+content/event/duxbury-immigration.md:
+  15  
+  16: <iframe width="560" height="315" src="https://www.youtube.com/embed/PsfCv4tTK04" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  17  
+
+content/event/east-boston-by-map.md:
+  18   border-radius: 8px; will-change: transform;">
+  19:   <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+  20      src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFaNOfQFG8&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+
+content/event/enc-trivia-nov-12.md:
+  16  
+  17: <iframe width="560" height="315" src="https://www.youtube.com/embed/XPxVxBKDKJE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  18  
+
+content/event/exploring-how-communities-shape-the-land-and-how-land-shapes-communities.md:
+  17  
+  18: <iframe width="560" height="315" src="https://www.youtube.com/embed/bIu4Pi42fHw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  19  
+
+content/event/fields-corner-nov-4.md:
+  16  
+  17: <iframe width="560" height="315" src="https://www.youtube.com/embed/-iPoFOe8icQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  18  
+
+content/event/frederick-law-olmsted-designing-america-watch-party-panel-discussion.md:
+  17  
+  18: <iframe width="560" height="315" src="https://www.youtube.com/embed/F4Y\_FAAPUso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  19  
+
+content/event/ground-truth-shaping-narratives-of-environmental-justice.md:
+  16  
+  17: <iframe width="560" height="315" src="https://www.youtube.com/embed/dZpa7Q-RfD8?start=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  18  
+
+content/event/Gumprecht-Author-Talk.md:
+  22  
+  23: <iframe width="560" height="315" src="https://www.youtube.com/embed/64KOTk-IT-c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  24  
+
+content/event/harvard-climate-justice-design-fellowship-virtual-showcase.md:
+  14  
+  15: <iframe width="560" height="315" src="https://www.youtube.com/embed/cEVtWRd0vuI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  16  
+
+content/event/how-data-can-warp-our-world-june-9.md:
+  14  
+  15: <iframe width="560" height="315" src="https://www.youtube.com/embed/cG8SbH3dOH4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  16  
+
+content/event/how-data-can-warp-our-world-may-12.md:
+  14  
+  15: <iframe width="100%" height="400" src="https://www.youtube.com/embed/ovhAswmYn8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  16  
+
+content/event/how-data-can-warp-our-world-may-19.md:
+  14  
+  15: <iframe width="560" height="315" src="https://www.youtube.com/embed/xx_z_ZpMeiA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  16  
+
+content/event/how-data-can-warp-our-world-may-26.md:
+  14  
+  15: <iframe width="560" height="315" src="https://www.youtube.com/embed/krby8EzEFQM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  16  
+
+content/event/interview-series-a-chat-with-alex-hill.md:
+  14  
+  15: <iframe width="560" height="315" src="https://www.youtube.com/embed/gHyuIXdJr4A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  16  
+
+content/event/jamaica-plain-by-map.md:
+  14  
+  15: <iframe width="560" height="315" src="https://www.youtube.com/embed/6KTCWKqmJeE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  16  
+
+content/event/john-mccurdy-on-geographies-of-contact-between-soldiers-and-civilians.md:
+  15  
+  16: <iframe width="560" height="315" src="https://www.youtube.com/embed/FOuu1TJvsCo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  17  
+
+content/event/kathleen-duval-on-seeing-the-revolution-from-beyond-the-atlantic-coast.md:
+  14  
+  15: <iframe width="100%" height="400" src="https://www.youtube.com/embed/0jGA636-hq0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  16  
+
+content/event/Kelly-Erby-on-Restaurant-Republic-The-Rise-of-Public-Dining-in-Boston.md:
+  16  
+  17: <iframe width="560" height="315" src="https://www.youtube.com/embed/HGiN71s3XCw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  18  
+
+content/event/lewandoski-quebec-act.md:
+  17  
+  18: <iframe width="560" height="315" src="https://www.youtube.com/embed/kR045X5M34I?si=J5sSTDn-Vjlm5fvB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  19  
+
+content/event/lower-mills-by-map.md:
+  14  ---
+  15: <div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;">  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFfDmSd7-8&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">  </iframe></div><a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFfDmSd7-8&#x2F;view?utm_content=DAFfDmSd7-8&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Lower Mills By Map</a> by Emily Bowe
+  16  
+
+content/event/mapping-and-placing-18th-century-roxbury-in-the-atlantic-world.md:
+  16  
+  17: <iframe width="560" height="315" src="https://www.youtube.com/embed/yzCnKLnbJy0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  18  
+
+content/event/mapping-denmark-americas.md:
+  16  
+  17: <iframe
+  18    src="https://lu.ma/embed/event/evt-mVxcuxGMrEsZMxM/simple"
+
+content/event/Mapping-Places-From-Above.md:
+  23  
+  24: <iframe width="840" height="473" src="https://www.youtube.com/embed/PEMWezfy5xs?si=3Rz8jPdQ7yezzqnB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  25  
+
+  28   border-radius: 8px; will-change: transform;">
+  29:   <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+  30      src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFwImPD_fI&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+
+content/event/Meghan-Cope-Geographies-Of-Childhood.md:
+  19  
+  20: <iframe width="560" height="315" src="https://www.youtube.com/embed/1fdJ9t69Rwk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  21  
+
+content/event/michele-navakas-on-liquid-landscapes-and-the-edges-of-america-from-the-revolution-to-today.md:
+  14  
+  15: <iframe width="100%" height="400" src="https://www.youtube.com/embed/zcaOe_X-roc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  16  
+
+content/event/More-or-Less-in-Common-Environment-and-Justice-in-the-Human-Landscape.md:
+  21  
+  22: <iframe width="560" height="315" src="https://www.youtube.com/embed/TIFeXUMclmk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  23  
+
+content/event/mystic-river-cc.md:
+  17  
+  18: <iframe width="560" height="315" src="https://www.youtube.com/embed/0P2GCaVMFU8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  19  
+
+content/event/north-end-by-map.md:
+  14  
+  15: <iframe width="560" height="315" src="https://www.youtube.com/embed/pbKFVVzEq1I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  16  
+
+content/event/paving-over-people-traffic-air-pollution-and-health.md:
+  17  
+  18: <iframe width="560" height="315" src="https://www.youtube.com/embed/sJcWRJMgoxQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  19  
+
+content/event/place-names-boundaries-and-real-world-impacts-the-story-of-upper-roxbury.md:
+  17  
+  18: <iframe width="560" height="315" src="https://www.youtube.com/embed/N216WPIeq98" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  19  
+
+content/event/Putting-Family-History-on-the-Map-202412.md:
+  21  
+  22: <iframe width="560" height="315" src="https://www.youtube.com/embed/uUQjXe4cfaA?si=B8N_SfP1XTCU6j4W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  23  
+
+content/event/Rachel-Cole-Transportation.md:
+  18  
+  19: <iframe width="100%" height="315" src="https://www.youtube.com/embed/HWe9wkFr62k?si=AqsoIdNixeHOSv63" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  20  
+
+content/event/redistricting-roundtable.md:
+  15  
+  16: <iframe width="560" height="315" src="https://www.youtube.com/embed/7Ww_aMQI36Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  17  
+
+content/event/Remote-Talk-with-Elke-Papelitzky.md:
+  17  
+  18: <iframe width="560" height="315" src="https://www.youtube.com/embed/W-IFcbZ4RB0?si=nVzvxEkaHVY-ggUm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  19  
+
+content/event/steven-beaucher-on-boston-in-transit.md:
+  16  
+  17: <iframe width="100%" height="315" src="https://www.youtube.com/embed/iDhwyEtOvMs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  18  
+
+content/event/The-Map-in-the-Machine-Charting-the-Spatial-Architecture-of-Digital-Capitalism.md:
+  21  
+  22: <iframe width="560" height="315" src="https://www.youtube.com/embed/pATfZ6KcJUI?si=9RVDrvCvTG-H8xW1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  23  
+
+content/event/the-meaning-of-land-indigenous-and-euro-american-mapping.md:
+  14  
+  15: <iframe width="560" height="315" src="https://www.youtube.com/embed/C9QoExsLimI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  16  
+
+content/event/tosca-electoral-illusions-the-2020-us-presidential-race-and-the-perils-of-politics-as-a-game-of-maps.md:
+  13  
+  14: <iframe width="560" height="315" src="https://www.youtube.com/embed/6hzvaoYm6QM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  15  
+
+content/event/TransitMatters-Advocacy-Data-Dashboard.md:
+  18  
+  19: <iframe width="560" height="315" src="https://www.youtube.com/embed/jP2flLnVNWg?si=5W1S-c1UKxfJzA4z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  20  
+
+content/event/Tristan-Brown-on-Fengshui-and-the-State-in-Qing-Dynasty-China.md:
+  13  
+  14: <iframe width="560" height="315" src="https://www.youtube.com/embed/Nk6v82uumzA?si=pLDJDIhqoUnCKTKM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  15  
+
+content/event/Veronica-O-Davis-Inclusive-Transportation.md:
+  16  
+  17: <iframe width="560" height="315" src="https://www.youtube.com/embed/LA7rgGLBgIM?si=ZzqbEOmkAK3ExEi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  18  
+
+content/event/West-End-By-Map2.md:
+  18  
+  19: <iframe width="560" height="315" src="https://www.youtube.com/embed/Qxf8uqH55Ho" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  20  
+
+content/event/west-roxbury-nov-19.md:
+  16  
+  17: <iframe width="560" height="315" src="https://www.youtube.com/embed/eeO-Bn5v_f0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  18  
+
+content/exhibitions/group-visits.md:
+  13  
+  14: <iframe data-tally-src="https://tally.so/embed/w59xoQ?alignLeft=1&hideTitle=1&transparentBackground=1&dynamicHeight=1" loading="lazy" width="100%" height="1581" frameborder="0" marginheight="0" marginwidth="0"></iframe><script>var d=document,w="https://tally.so/widgets/embed.js",v=function(){"undefined"!=typeof Tally?Tally.loadEmbeds():d.querySelectorAll("iframe[data-tally-src]:not([src])").forEach((function(e){e.src=e.dataset.tallySrc}))};if("undefined"!=typeof Tally)v();else if(d.querySelector('script[src="'+w+'"]')==null){var s=d.createElement("script");s.src=w,s.onload=v,s.onerror=v,d.body.appendChild(s);}</script>
+
+content/projects/grants-in-aid.md:
+  22  
+  23: <iframe data-tally-src="https://tally.so/embed/nr5REl?alignLeft=1&hideTitle=1&transparentBackground=1&dynamicHeight=1" loading="lazy" width="100%" height="2097" frameborder="0" marginheight="0" marginwidth="0" title="Cartography, Visualization, and Data Project Support for Individuals and Groups - Applications"></iframe><script>var d=document,w="https://tally.so/widgets/embed.js",v=function(){"undefined"!=typeof Tally?Tally.loadEmbeds():d.querySelectorAll("iframe[data-tally-src]:not([src])").forEach((function(e){e.src=e.dataset.tallySrc}))};if("undefined"!=typeof Tally)v();else if(d.querySelector('script[src="'+w+'"]')==null){var s=d.createElement("script");s.src=w,s.onload=v,s.onerror=v,d.body.appendChild(s);}</script>
+  24  
+
+content/projects/digital-projects/glitch-dataviz.md:
+  15  <div class="glitch-embed-wrap" style="height: 486px; width: 100%;">
+  16:   <iframe
+  17      allow="geolocation; microphone; camera; midi; encrypted-media"
+
+data/homepage.yml:
+  165    embedLink: >-
+  166:     <iframe width="560" height="315"
+  167      src="https://www.youtube.com/embed/W-IFcbZ4RB0?si=matvgMECK7GnyHV4"
+
+themes/neatline/layouts/_default/baseof.html:
+  6  <!-- Google Tag Manager (noscript) -->
+  7: <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PH5B9T8"
+  8  	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+themes/neatline/layouts/articles/paneltruck.html:
+  32  <section class="paneltruck-section">
+  33:   <iframe class="paneltruck-iframe" allowfullscreen src="https://geoservices.leventhalmap.org/panel-truck/panel-truck-wrapper/index.html#{{.Params.paneltruck.src}}">  
+  34    </iframe>
