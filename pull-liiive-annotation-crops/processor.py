@@ -102,6 +102,8 @@ def main():
         for annotation_page in canvas.get("annotations", []):
             for annotation in annotation_page.get("items", []):
                 target = annotation.get("target", {})
+                if not isinstance(target, dict):
+                    continue  # target can be a string (e.g. URL with #xywh=)
                 selector = target.get("selector")
                 if not selector or selector.get("type") != "SvgSelector":
                     continue
