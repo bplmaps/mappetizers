@@ -1,0 +1,1631 @@
+{
+  "id": "https://annotations.allmaps.org/manifests/5e3703240b9e5c05",
+  "type": "AnnotationPage",
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "items": [
+    {
+      "id": "https://annotations.allmaps.org/maps/ef681dbcdc7829f5",
+      "type": "Annotation",
+      "@context": [
+        "http://iiif.io/api/extension/georef/1/context.json",
+        "http://iiif.io/api/presentation/3/context.json"
+      ],
+      "created": "2026-02-18T17:30:50.348Z",
+      "modified": "2026-02-18T17:30:50.348Z",
+      "motivation": "georeferencing",
+      "target": {
+        "type": "SpecificResource",
+        "source": {
+          "id": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:63960f677",
+          "type": "ImageService2",
+          "height": 6924,
+          "width": 5787,
+          "partOf": [
+            {
+              "id": "https://ark.digitalcommonwealth.org/ark:/50959/n8712v26q/canvas/63960f677",
+              "type": "Canvas",
+              "label": {
+                "none": [
+                  "image 1"
+                ]
+              },
+              "partOf": [
+                {
+                  "id": "https://ark.digitalcommonwealth.org/ark:/50959/n8712v26q/manifest",
+                  "type": "Manifest",
+                  "label": {
+                    "none": [
+                      "Milford, Massachusetts, Sanborn's survey, April 1874"
+                    ]
+                  }
+                }
+              ]
+            }
+          ],
+          "provider": [
+            {
+              "type": "Organization",
+              "label": {
+                "none": [
+                  "Digital Commonwealth"
+                ]
+              },
+              "homepage": [
+                {
+                  "id": "https://www.digitalcommonwealth.org/search?f%5Bgenre_basic_ssim%5D%5B%5D=Maps"
+                }
+              ]
+            }
+          ]
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg width=\"5787\" height=\"6924\"><polygon points=\"63,5664 916,5681 2031,5703 2057,5703 2630,5714 2630,5260 2630,5185 2348,4876 2635,4425 2667,1017 2676,272 2680,62 305,78 156,2513 553,2139 1338,2379 1962,3260 1628,3531 865,3626 180,3285 282,4514 189,5403\" /></svg>"
+        }
+      },
+      "body": {
+        "type": "FeatureCollection",
+        "transformation": {
+          "type": "polynomial",
+          "options": {
+            "order": 1
+          }
+        },
+        "features": [
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                625,
+                5524
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -71.54344872871883,
+                42.13076188679537
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                2202,
+                5544
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -71.54263491275444,
+                42.13111822908934
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                1747,
+                609
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -71.54514789530619,
+                42.13286099464054
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                2200,
+                4016
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -71.54317700743755,
+                42.131801933639395
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                675,
+                3933
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -71.5440474191288,
+                42.13140374067336
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                2668,
+                737
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -71.54361646544811,
+                42.13349759688495
+              ]
+            }
+          }
+        ],
+        "_allmaps": {
+          "id": "https://annotations.allmaps.org/maps/ef681dbcdc7829f5",
+          "version": "https://annotations.allmaps.org/maps/ef681dbcdc7829f5@b7c8feebfd360371",
+          "image": {
+            "id": "https://annotations.allmaps.org/images/470d867dfc0a59c8",
+            "version": "https://annotations.allmaps.org/images/470d867dfc0a59c8@c408929b40d8a3aa",
+            "canvases": [
+              {
+                "id": "https://annotations.allmaps.org/canvases/aad5bfb9f6754c60",
+                "manifests": [
+                  {
+                    "id": "https://annotations.allmaps.org/manifests/5e3703240b9e5c05"
+                  }
+                ]
+              }
+            ]
+          },
+          "scale": 16.315397,
+          "area": 44023.86
+        }
+      }
+    },
+    {
+      "id": "https://annotations.allmaps.org/maps/2dca10f70289ca06",
+      "type": "Annotation",
+      "@context": [
+        "http://iiif.io/api/extension/georef/1/context.json",
+        "http://iiif.io/api/presentation/3/context.json"
+      ],
+      "created": "2026-02-18T17:30:50.348Z",
+      "modified": "2026-02-18T17:30:50.348Z",
+      "motivation": "georeferencing",
+      "target": {
+        "type": "SpecificResource",
+        "source": {
+          "id": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:63960f677",
+          "type": "ImageService2",
+          "height": 6924,
+          "width": 5787,
+          "partOf": [
+            {
+              "id": "https://ark.digitalcommonwealth.org/ark:/50959/n8712v26q/canvas/63960f677",
+              "type": "Canvas",
+              "label": {
+                "none": [
+                  "image 1"
+                ]
+              },
+              "partOf": [
+                {
+                  "id": "https://ark.digitalcommonwealth.org/ark:/50959/n8712v26q/manifest",
+                  "type": "Manifest",
+                  "label": {
+                    "none": [
+                      "Milford, Massachusetts, Sanborn's survey, April 1874"
+                    ]
+                  }
+                }
+              ]
+            }
+          ],
+          "provider": [
+            {
+              "type": "Organization",
+              "label": {
+                "none": [
+                  "Digital Commonwealth"
+                ]
+              },
+              "homepage": [
+                {
+                  "id": "https://www.digitalcommonwealth.org/search?f%5Bgenre_basic_ssim%5D%5B%5D=Maps"
+                }
+              ]
+            }
+          ]
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg width=\"5787\" height=\"6924\"><polygon points=\"5734,68 2710,62 2697,1633 2691,2232 2687,2239 2687,2304 2690,2511 2673,4439 2448,4785 2387,4874 2656,5169 2665,5715 3033,5812 3284,6012 3457,5959 3597,6149 3975,6577 4122,6595 4134,6107 5618,5717\" /></svg>"
+        }
+      },
+      "body": {
+        "type": "FeatureCollection",
+        "transformation": {
+          "type": "polynomial",
+          "options": {
+            "order": 1
+          }
+        },
+        "features": [
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                5070,
+                1695
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -71.51635684192757,
+                42.14247333873848
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                4215,
+                6118
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -71.5191986912178,
+                42.14147554728615
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                4106,
+                888
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -71.51647602077287,
+                42.143211851958284
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                3659,
+                6653
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -71.51969645079403,
+                42.141548027905685
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                3901,
+                3462
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -71.51804960790601,
+                42.14236266627475
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                3000,
+                422
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -71.51665931518892,
+                42.14383658196732
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                5620,
+                5758
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -71.51829254157155,
+                42.14098493170766
+              ]
+            }
+          }
+        ],
+        "_allmaps": {
+          "id": "https://annotations.allmaps.org/maps/2dca10f70289ca06",
+          "version": "https://annotations.allmaps.org/maps/2dca10f70289ca06@a51524b9180ef634",
+          "image": {
+            "id": "https://annotations.allmaps.org/images/470d867dfc0a59c8",
+            "version": "https://annotations.allmaps.org/images/470d867dfc0a59c8@c408929b40d8a3aa",
+            "canvases": [
+              {
+                "id": "https://annotations.allmaps.org/canvases/aad5bfb9f6754c60",
+                "manifests": [
+                  {
+                    "id": "https://annotations.allmaps.org/manifests/5e3703240b9e5c05"
+                  }
+                ]
+              }
+            ]
+          },
+          "scale": 16.69332,
+          "area": 63997.31
+        }
+      }
+    },
+    {
+      "id": "https://annotations.allmaps.org/maps/040f40c75cc6a24a",
+      "type": "Annotation",
+      "@context": [
+        "http://iiif.io/api/extension/georef/1/context.json",
+        "http://iiif.io/api/presentation/3/context.json"
+      ],
+      "created": "2026-02-18T17:30:50.348Z",
+      "modified": "2026-02-18T17:30:50.348Z",
+      "motivation": "georeferencing",
+      "target": {
+        "type": "SpecificResource",
+        "source": {
+          "id": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:63960f677",
+          "type": "ImageService2",
+          "height": 6924,
+          "width": 5787,
+          "partOf": [
+            {
+              "id": "https://ark.digitalcommonwealth.org/ark:/50959/n8712v26q/canvas/63960f677",
+              "type": "Canvas",
+              "label": {
+                "none": [
+                  "image 1"
+                ]
+              },
+              "partOf": [
+                {
+                  "id": "https://ark.digitalcommonwealth.org/ark:/50959/n8712v26q/manifest",
+                  "type": "Manifest",
+                  "label": {
+                    "none": [
+                      "Milford, Massachusetts, Sanborn's survey, April 1874"
+                    ]
+                  }
+                }
+              ]
+            }
+          ],
+          "provider": [
+            {
+              "type": "Organization",
+              "label": {
+                "none": [
+                  "Digital Commonwealth"
+                ]
+              },
+              "homepage": [
+                {
+                  "id": "https://www.digitalcommonwealth.org/search?f%5Bgenre_basic_ssim%5D%5B%5D=Maps"
+                }
+              ]
+            }
+          ]
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg width=\"5787\" height=\"6924\"><polygon points=\"3117,6853 3127,6015 2665,5743 1895,5736 1865,5736 1845,6828\" /></svg>"
+        }
+      },
+      "body": {
+        "type": "FeatureCollection",
+        "transformation": {
+          "type": "polynomial",
+          "options": {
+            "order": 1
+          }
+        },
+        "features": [
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                2813,
+                5841
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -71.5225021917439,
+                42.138169528936515
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                1853,
+                6486
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -71.52233284776086,
+                42.137761903268824
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                3032,
+                6618
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -71.52204793265398,
+                42.13814622378905
+              ]
+            }
+          }
+        ],
+        "_allmaps": {
+          "id": "https://annotations.allmaps.org/maps/040f40c75cc6a24a",
+          "version": "https://annotations.allmaps.org/maps/040f40c75cc6a24a@2b893fdb43d7b78a",
+          "image": {
+            "id": "https://annotations.allmaps.org/images/470d867dfc0a59c8",
+            "version": "https://annotations.allmaps.org/images/470d867dfc0a59c8@c408929b40d8a3aa",
+            "canvases": [
+              {
+                "id": "https://annotations.allmaps.org/canvases/aad5bfb9f6754c60",
+                "manifests": [
+                  {
+                    "id": "https://annotations.allmaps.org/manifests/5e3703240b9e5c05"
+                  }
+                ]
+              }
+            ]
+          },
+          "scale": 23.089392,
+          "area": 2498.92
+        }
+      }
+    },
+    {
+      "id": "https://annotations.allmaps.org/maps/9c1200547abff843",
+      "type": "Annotation",
+      "@context": [
+        "http://iiif.io/api/extension/georef/1/context.json",
+        "http://iiif.io/api/presentation/3/context.json"
+      ],
+      "created": "2026-02-18T17:00:54.477Z",
+      "modified": "2026-02-18T17:00:54.477Z",
+      "motivation": "georeferencing",
+      "target": {
+        "type": "SpecificResource",
+        "source": {
+          "id": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3t948x36k",
+          "type": "ImageService2",
+          "height": 6978,
+          "width": 5821,
+          "partOf": [
+            {
+              "id": "https://ark.digitalcommonwealth.org/ark:/50959/n8712v26q/canvas/3t948x36k",
+              "type": "Canvas",
+              "label": {
+                "none": [
+                  "image 3"
+                ]
+              },
+              "partOf": [
+                {
+                  "id": "https://ark.digitalcommonwealth.org/ark:/50959/n8712v26q/manifest",
+                  "type": "Manifest",
+                  "label": {
+                    "none": [
+                      "Milford, Massachusetts, Sanborn's survey, April 1874"
+                    ]
+                  }
+                }
+              ]
+            }
+          ],
+          "provider": [
+            {
+              "type": "Organization",
+              "label": {
+                "none": [
+                  "Digital Commonwealth"
+                ]
+              },
+              "homepage": [
+                {
+                  "id": "https://www.digitalcommonwealth.org/search?f%5Bgenre_basic_ssim%5D%5B%5D=Maps"
+                }
+              ]
+            }
+          ]
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg width=\"5821\" height=\"6978\"><polygon points=\"5772,2718 4866,3065 4862,3732 2891,3721 2846,6392 2834,6846 5777,6857\" /></svg>"
+        }
+      },
+      "body": {
+        "type": "FeatureCollection",
+        "transformation": {
+          "type": "polynomial",
+          "options": {
+            "order": 1
+          }
+        },
+        "features": [
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                3078,
+                3733
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -71.5152965653309,
+                42.139681317412
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                5045,
+                6691
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -71.51296593752522,
+                42.140418581073305
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                5698,
+                3087
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -71.51547960324348,
+                42.141098560539774
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                3026,
+                6032
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -71.51369919927025,
+                42.139500048956194
+              ]
+            }
+          }
+        ],
+        "_allmaps": {
+          "id": "https://annotations.allmaps.org/maps/9c1200547abff843",
+          "version": "https://annotations.allmaps.org/maps/9c1200547abff843@cb0b62901ed3d60f",
+          "image": {
+            "id": "https://annotations.allmaps.org/images/30fe42c3d9cd6f21",
+            "version": "https://annotations.allmaps.org/images/30fe42c3d9cd6f21@a8595892eb39f79d",
+            "canvases": [
+              {
+                "id": "https://annotations.allmaps.org/canvases/6fd46485d5e0c8e5",
+                "manifests": [
+                  {
+                    "id": "https://annotations.allmaps.org/manifests/5e3703240b9e5c05"
+                  }
+                ]
+              }
+            ]
+          },
+          "scale": 17.150816,
+          "area": 33502.69
+        }
+      }
+    },
+    {
+      "id": "https://annotations.allmaps.org/maps/bf2b4c2c549d8e8f",
+      "type": "Annotation",
+      "@context": [
+        "http://iiif.io/api/extension/georef/1/context.json",
+        "http://iiif.io/api/presentation/3/context.json"
+      ],
+      "created": "2026-02-18T17:00:54.477Z",
+      "modified": "2026-02-18T17:00:54.477Z",
+      "motivation": "georeferencing",
+      "target": {
+        "type": "SpecificResource",
+        "source": {
+          "id": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3t948x36k",
+          "type": "ImageService2",
+          "height": 6978,
+          "width": 5821,
+          "partOf": [
+            {
+              "id": "https://ark.digitalcommonwealth.org/ark:/50959/n8712v26q/canvas/3t948x36k",
+              "type": "Canvas",
+              "label": {
+                "none": [
+                  "image 3"
+                ]
+              },
+              "partOf": [
+                {
+                  "id": "https://ark.digitalcommonwealth.org/ark:/50959/n8712v26q/manifest",
+                  "type": "Manifest",
+                  "label": {
+                    "none": [
+                      "Milford, Massachusetts, Sanborn's survey, April 1874"
+                    ]
+                  }
+                }
+              ]
+            }
+          ],
+          "provider": [
+            {
+              "type": "Organization",
+              "label": {
+                "none": [
+                  "Digital Commonwealth"
+                ]
+              },
+              "homepage": [
+                {
+                  "id": "https://www.digitalcommonwealth.org/search?f%5Bgenre_basic_ssim%5D%5B%5D=Maps"
+                }
+              ]
+            }
+          ]
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg width=\"5821\" height=\"6978\"><polygon points=\"2839,4252 2850,3672 4814,3680 4821,2988 4421,2988 4414,925 4868,82 3627,234 3108,239 2875,206 2595,194 2480,146 2036,121 1757,146 1328,135 1312,1310 1349,1314 1334,1768 1316,2360 1292,3116 1239,3113 1216,4220\" /></svg>"
+        }
+      },
+      "body": {
+        "type": "FeatureCollection",
+        "transformation": {
+          "type": "polynomial",
+          "options": {
+            "order": 1
+          }
+        },
+        "features": [
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                4327,
+                3485
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -71.51571415569828,
+                42.140356547332516
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                3108,
+                227
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -71.51810302908099,
+                42.14002256898297
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                2639,
+                3770
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -71.51575954357314,
+                42.139614191436124
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                4342,
+                863
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -71.51753267494581,
+                42.140567813790426
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                1496,
+                545
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -71.51801543722895,
+                42.13921448597367
+              ]
+            }
+          }
+        ],
+        "_allmaps": {
+          "id": "https://annotations.allmaps.org/maps/bf2b4c2c549d8e8f",
+          "version": "https://annotations.allmaps.org/maps/bf2b4c2c549d8e8f@e752ea21978028b6",
+          "image": {
+            "id": "https://annotations.allmaps.org/images/30fe42c3d9cd6f21",
+            "version": "https://annotations.allmaps.org/images/30fe42c3d9cd6f21@a8595892eb39f79d",
+            "canvases": [
+              {
+                "id": "https://annotations.allmaps.org/canvases/6fd46485d5e0c8e5",
+                "manifests": [
+                  {
+                    "id": "https://annotations.allmaps.org/manifests/5e3703240b9e5c05"
+                  }
+                ]
+              }
+            ]
+          },
+          "scale": 18.326902,
+          "area": 36441.81
+        }
+      }
+    },
+    {
+      "id": "https://annotations.allmaps.org/maps/b2e8bd54da47e730",
+      "type": "Annotation",
+      "@context": [
+        "http://iiif.io/api/extension/georef/1/context.json",
+        "http://iiif.io/api/presentation/3/context.json"
+      ],
+      "created": "2026-02-18T17:00:54.477Z",
+      "modified": "2026-02-18T17:00:54.477Z",
+      "motivation": "georeferencing",
+      "target": {
+        "type": "SpecificResource",
+        "source": {
+          "id": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3t948x36k",
+          "type": "ImageService2",
+          "height": 6978,
+          "width": 5821,
+          "partOf": [
+            {
+              "id": "https://ark.digitalcommonwealth.org/ark:/50959/n8712v26q/canvas/3t948x36k",
+              "type": "Canvas",
+              "label": {
+                "none": [
+                  "image 3"
+                ]
+              },
+              "partOf": [
+                {
+                  "id": "https://ark.digitalcommonwealth.org/ark:/50959/n8712v26q/manifest",
+                  "type": "Manifest",
+                  "label": {
+                    "none": [
+                      "Milford, Massachusetts, Sanborn's survey, April 1874"
+                    ]
+                  }
+                }
+              ]
+            }
+          ],
+          "provider": [
+            {
+              "type": "Organization",
+              "label": {
+                "none": [
+                  "Digital Commonwealth"
+                ]
+              },
+              "homepage": [
+                {
+                  "id": "https://www.digitalcommonwealth.org/search?f%5Bgenre_basic_ssim%5D%5B%5D=Maps"
+                }
+              ]
+            }
+          ]
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg width=\"5821\" height=\"6978\"><polygon points=\"2837,4295 1215,4260 1203,4845 84,4815 90,6841 2789,6845 2803,6207\" /></svg>"
+        }
+      },
+      "body": {
+        "type": "FeatureCollection",
+        "transformation": {
+          "type": "polynomial",
+          "options": {
+            "order": 1
+          }
+        },
+        "features": [
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                2585,
+                4317
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -71.51474239225281,
+                42.139454221015825
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                2610,
+                5183
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -71.51387104497228,
+                42.13935373662454
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                636,
+                5457
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -71.51399327312906,
+                42.137689596887896
+              ]
+            }
+          }
+        ],
+        "_allmaps": {
+          "id": "https://annotations.allmaps.org/maps/b2e8bd54da47e730",
+          "version": "https://annotations.allmaps.org/maps/b2e8bd54da47e730@5248c561e8e67748",
+          "image": {
+            "id": "https://annotations.allmaps.org/images/30fe42c3d9cd6f21",
+            "version": "https://annotations.allmaps.org/images/30fe42c3d9cd6f21@a8595892eb39f79d",
+            "canvases": [
+              {
+                "id": "https://annotations.allmaps.org/canvases/6fd46485d5e0c8e5",
+                "manifests": [
+                  {
+                    "id": "https://annotations.allmaps.org/manifests/5e3703240b9e5c05"
+                  }
+                ]
+              }
+            ]
+          },
+          "scale": 11.305555,
+          "area": 49889.21
+        }
+      }
+    },
+    {
+      "id": "https://annotations.allmaps.org/maps/7552ae9e26a08624",
+      "type": "Annotation",
+      "@context": [
+        "http://iiif.io/api/extension/georef/1/context.json",
+        "http://iiif.io/api/presentation/3/context.json"
+      ],
+      "created": "2026-02-18T17:00:54.477Z",
+      "modified": "2026-02-18T17:00:54.477Z",
+      "motivation": "georeferencing",
+      "target": {
+        "type": "SpecificResource",
+        "source": {
+          "id": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3t948x36k",
+          "type": "ImageService2",
+          "height": 6978,
+          "width": 5821,
+          "partOf": [
+            {
+              "id": "https://ark.digitalcommonwealth.org/ark:/50959/n8712v26q/canvas/3t948x36k",
+              "type": "Canvas",
+              "label": {
+                "none": [
+                  "image 3"
+                ]
+              },
+              "partOf": [
+                {
+                  "id": "https://ark.digitalcommonwealth.org/ark:/50959/n8712v26q/manifest",
+                  "type": "Manifest",
+                  "label": {
+                    "none": [
+                      "Milford, Massachusetts, Sanborn's survey, April 1874"
+                    ]
+                  }
+                }
+              ]
+            }
+          ],
+          "provider": [
+            {
+              "type": "Organization",
+              "label": {
+                "none": [
+                  "Digital Commonwealth"
+                ]
+              },
+              "homepage": [
+                {
+                  "id": "https://www.digitalcommonwealth.org/search?f%5Bgenre_basic_ssim%5D%5B%5D=Maps"
+                }
+              ]
+            }
+          ]
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg width=\"5821\" height=\"6978\"><polygon points=\"88,4773 1158,4801 1199,3113 94,3097\" /></svg>"
+        }
+      },
+      "body": {
+        "type": "FeatureCollection",
+        "transformation": {
+          "type": "polynomial",
+          "options": {
+            "order": 1
+          }
+        },
+        "features": [
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                1191,
+                4157
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -71.52466283308236,
+                42.132488176002994
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                283,
+                4133
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -71.52511824215055,
+                42.13243707183605
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                962,
+                4713
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -71.5247504818739,
+                42.13229621268286
+              ]
+            }
+          }
+        ],
+        "_allmaps": {
+          "id": "https://annotations.allmaps.org/maps/7552ae9e26a08624",
+          "version": "https://annotations.allmaps.org/maps/7552ae9e26a08624@c3475c07761fbdee",
+          "image": {
+            "id": "https://annotations.allmaps.org/images/30fe42c3d9cd6f21",
+            "version": "https://annotations.allmaps.org/images/30fe42c3d9cd6f21@a8595892eb39f79d",
+            "canvases": [
+              {
+                "id": "https://annotations.allmaps.org/canvases/6fd46485d5e0c8e5",
+                "manifests": [
+                  {
+                    "id": "https://annotations.allmaps.org/manifests/5e3703240b9e5c05"
+                  }
+                ]
+              }
+            ]
+          },
+          "scale": 25.88431,
+          "area": 2730.89
+        }
+      }
+    },
+    {
+      "id": "https://annotations.allmaps.org/maps/d31571eec68bf090",
+      "type": "Annotation",
+      "@context": [
+        "http://iiif.io/api/extension/georef/1/context.json",
+        "http://iiif.io/api/presentation/3/context.json"
+      ],
+      "created": "2026-02-18T17:00:54.477Z",
+      "modified": "2026-02-18T17:00:54.477Z",
+      "motivation": "georeferencing",
+      "target": {
+        "type": "SpecificResource",
+        "source": {
+          "id": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3t948x36k",
+          "type": "ImageService2",
+          "height": 6978,
+          "width": 5821,
+          "partOf": [
+            {
+              "id": "https://ark.digitalcommonwealth.org/ark:/50959/n8712v26q/canvas/3t948x36k",
+              "type": "Canvas",
+              "label": {
+                "none": [
+                  "image 3"
+                ]
+              },
+              "partOf": [
+                {
+                  "id": "https://ark.digitalcommonwealth.org/ark:/50959/n8712v26q/manifest",
+                  "type": "Manifest",
+                  "label": {
+                    "none": [
+                      "Milford, Massachusetts, Sanborn's survey, April 1874"
+                    ]
+                  }
+                }
+              ]
+            }
+          ],
+          "provider": [
+            {
+              "type": "Organization",
+              "label": {
+                "none": [
+                  "Digital Commonwealth"
+                ]
+              },
+              "homepage": [
+                {
+                  "id": "https://www.digitalcommonwealth.org/search?f%5Bgenre_basic_ssim%5D%5B%5D=Maps"
+                }
+              ]
+            }
+          ]
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg width=\"5821\" height=\"6978\"><polygon points=\"1261,3075 1301,1352 122,1321 95,3058\" /></svg>"
+        }
+      },
+      "body": {
+        "type": "FeatureCollection",
+        "transformation": {
+          "type": "polynomial",
+          "options": {
+            "order": 1
+          }
+        },
+        "features": [
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                668,
+                1559
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -71.5244331790565,
+                42.13629507113703
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                797,
+                2772
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -71.52371750850945,
+                42.13611769983743
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                833,
+                1566
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -71.5243884330257,
+                42.13636453932915
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                596,
+                2761
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -71.52382162895806,
+                42.135989631724954
+              ]
+            }
+          }
+        ],
+        "_allmaps": {
+          "id": "https://annotations.allmaps.org/maps/d31571eec68bf090",
+          "version": "https://annotations.allmaps.org/maps/d31571eec68bf090@381cbadba38c012b",
+          "image": {
+            "id": "https://annotations.allmaps.org/images/30fe42c3d9cd6f21",
+            "version": "https://annotations.allmaps.org/images/30fe42c3d9cd6f21@a8595892eb39f79d",
+            "canvases": [
+              {
+                "id": "https://annotations.allmaps.org/canvases/6fd46485d5e0c8e5",
+                "manifests": [
+                  {
+                    "id": "https://annotations.allmaps.org/manifests/5e3703240b9e5c05"
+                  }
+                ]
+              }
+            ]
+          },
+          "scale": 16.749105,
+          "area": 7233.49
+        }
+      }
+    },
+    {
+      "id": "https://annotations.allmaps.org/maps/ca383dbab65ae3fe",
+      "type": "Annotation",
+      "@context": [
+        "http://iiif.io/api/extension/georef/1/context.json",
+        "http://iiif.io/api/presentation/3/context.json"
+      ],
+      "created": "2026-02-18T17:00:54.477Z",
+      "modified": "2026-02-18T17:00:54.477Z",
+      "motivation": "georeferencing",
+      "target": {
+        "type": "SpecificResource",
+        "source": {
+          "id": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3t948x36k",
+          "type": "ImageService2",
+          "height": 6978,
+          "width": 5821,
+          "partOf": [
+            {
+              "id": "https://ark.digitalcommonwealth.org/ark:/50959/n8712v26q/canvas/3t948x36k",
+              "type": "Canvas",
+              "label": {
+                "none": [
+                  "image 3"
+                ]
+              },
+              "partOf": [
+                {
+                  "id": "https://ark.digitalcommonwealth.org/ark:/50959/n8712v26q/manifest",
+                  "type": "Manifest",
+                  "label": {
+                    "none": [
+                      "Milford, Massachusetts, Sanborn's survey, April 1874"
+                    ]
+                  }
+                }
+              ]
+            }
+          ],
+          "provider": [
+            {
+              "type": "Organization",
+              "label": {
+                "none": [
+                  "Digital Commonwealth"
+                ]
+              },
+              "homepage": [
+                {
+                  "id": "https://www.digitalcommonwealth.org/search?f%5Bgenre_basic_ssim%5D%5B%5D=Maps"
+                }
+              ]
+            }
+          ]
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg width=\"5821\" height=\"6978\"><polygon points=\"1271,1314 1286,64 78,73 122,1285\" /></svg>"
+        }
+      },
+      "body": {
+        "type": "FeatureCollection",
+        "transformation": {
+          "type": "polynomial",
+          "options": {
+            "order": 1
+          }
+        },
+        "features": [
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                1178,
+                888
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -71.52601618583938,
+                42.14076960352574
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                848,
+                1183
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -71.52615558724887,
+                42.14058218096656
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                295,
+                1174
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -71.52657063353334,
+                42.14054305491848
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                877,
+                201
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -71.52629530582864,
+                42.141095243321985
+              ]
+            }
+          }
+        ],
+        "_allmaps": {
+          "id": "https://annotations.allmaps.org/maps/ca383dbab65ae3fe",
+          "version": "https://annotations.allmaps.org/maps/ca383dbab65ae3fe@dab5160d3fdd270e",
+          "image": {
+            "id": "https://annotations.allmaps.org/images/30fe42c3d9cd6f21",
+            "version": "https://annotations.allmaps.org/images/30fe42c3d9cd6f21@a8595892eb39f79d",
+            "canvases": [
+              {
+                "id": "https://annotations.allmaps.org/canvases/6fd46485d5e0c8e5",
+                "manifests": [
+                  {
+                    "id": "https://annotations.allmaps.org/manifests/5e3703240b9e5c05"
+                  }
+                ]
+              }
+            ]
+          },
+          "scale": 17.244779,
+          "area": 4877.86
+        }
+      }
+    },
+    {
+      "id": "https://annotations.allmaps.org/maps/928e3ffd96c420df",
+      "type": "Annotation",
+      "@context": [
+        "http://iiif.io/api/extension/georef/1/context.json",
+        "http://iiif.io/api/presentation/3/context.json"
+      ],
+      "created": "2026-02-11T21:55:51.756Z",
+      "modified": "2026-02-11T21:55:51.756Z",
+      "motivation": "georeferencing",
+      "target": {
+        "type": "SpecificResource",
+        "source": {
+          "id": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3b594g977",
+          "type": "ImageService2",
+          "height": 6929,
+          "width": 5814,
+          "partOf": [
+            {
+              "id": "https://ark.digitalcommonwealth.org/ark:/50959/n8712v26q/canvas/3b594g977",
+              "type": "Canvas",
+              "label": {
+                "none": [
+                  "image 2"
+                ]
+              },
+              "partOf": [
+                {
+                  "id": "https://ark.digitalcommonwealth.org/ark:/50959/n8712v26q/manifest",
+                  "type": "Manifest",
+                  "label": {
+                    "none": [
+                      "Milford, Massachusetts, Sanborn's survey, April 1874"
+                    ]
+                  }
+                }
+              ]
+            }
+          ],
+          "provider": [
+            {
+              "type": "Organization",
+              "label": {
+                "none": [
+                  "Digital Commonwealth"
+                ]
+              },
+              "homepage": [
+                {
+                  "id": "https://www.digitalcommonwealth.org/search?f%5Bgenre_basic_ssim%5D%5B%5D=Maps"
+                }
+              ]
+            }
+          ]
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg width=\"5814\" height=\"6929\"><polygon points=\"133,110 143,565 132,3477 164,3926 119,6187 177,6791 3289,6838 5739,6828 5735,6147 5710,5883 5726,5514 5745,1262 5286,1328 3893,868 2574,426 2604,46 2440,41 2194,434 2152,407 2121,41 1457,36 149,62\" /></svg>"
+        }
+      },
+      "body": {
+        "type": "FeatureCollection",
+        "transformation": {
+          "type": "polynomial",
+          "options": {
+            "order": 1
+          }
+        },
+        "features": [
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                490,
+                6013
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -71.52172092760448,
+                42.13942316359777
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                1023,
+                800
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -71.52018866646097,
+                42.141628587375465
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                5537,
+                4678
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -71.51807009828211,
+                42.13904793754784
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                1884,
+                560
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -71.51955047764174,
+                42.14162745726952
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                5296,
+                1557
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -71.51751963018971,
+                42.14062780573806
+              ]
+            }
+          }
+        ],
+        "_allmaps": {
+          "id": "https://annotations.allmaps.org/maps/928e3ffd96c420df",
+          "version": "https://annotations.allmaps.org/maps/928e3ffd96c420df@8e6ab3299f3790ed",
+          "image": {
+            "id": "https://annotations.allmaps.org/images/c89505c75ac77ad8",
+            "version": "https://annotations.allmaps.org/images/c89505c75ac77ad8@d2dfbac06e901429",
+            "canvases": [
+              {
+                "id": "https://annotations.allmaps.org/canvases/e3f46357a3e3152c",
+                "manifests": [
+                  {
+                    "id": "https://annotations.allmaps.org/manifests/5e3703240b9e5c05"
+                  }
+                ]
+              }
+            ]
+          },
+          "scale": 17.834555,
+          "area": 110112.97
+        }
+      }
+    }
+  ]
+}

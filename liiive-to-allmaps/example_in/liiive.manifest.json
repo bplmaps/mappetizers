@@ -1,0 +1,331 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://ark.digitalcommonwealth.org/ark:/50959/n8712v26q/manifest",
+  "type": "Manifest",
+  "behavior": ["paged"],
+  "metadata": [
+    {
+      "label": { "none": ["Title"] },
+      "value": {
+        "none": ["Milford, Massachusetts, Sanborn's survey, April 1874"]
+      }
+    },
+    { "label": { "none": ["Date"] }, "value": { "none": ["1874"] } },
+    {
+      "label": { "none": ["Creator"] },
+      "value": { "none": ["Publisher", ""] }
+    },
+    {
+      "label": { "none": ["Publisher"] },
+      "value": { "none": ["[New York] : Sanborn Map Co."] }
+    },
+    {
+      "label": { "none": ["Type of Resource"] },
+      "value": { "none": ["Cartographic"] }
+    },
+    { "label": { "none": ["Format"] }, "value": { "none": ["Maps"] } },
+    { "label": { "none": ["Language"] }, "value": { "none": ["English"] } },
+    {
+      "label": { "none": ["Subjects"] },
+      "value": {
+        "none": ["Milford (Mass.)--Maps", "Fire risk assessment--Maps"]
+      }
+    },
+    {
+      "label": { "none": ["Location"] },
+      "value": { "none": ["Boston Public Library"] }
+    },
+    {
+      "label": { "none": ["Collection (local)"] },
+      "value": {
+        "none": ["Norman B. Leventhal Map & Education Center Collection"]
+      }
+    },
+    {
+      "label": { "none": ["Identifier"] },
+      "value": {
+        "none": [
+          "https://ark.digitalcommonwealth.org/ark:/50959/n8712v26q",
+          "06_01_018612",
+          "G1234.M76 1874 .S3",
+          "39999058993948"
+        ]
+      }
+    },
+    {
+      "label": { "none": ["Terms of Use"] },
+      "value": {
+        "none": [
+          "No known copyright restrictions.",
+          "No known restrictions on use."
+        ]
+      }
+    }
+  ],
+  "label": { "none": ["Milford, Massachusetts, Sanborn's survey, April 1874"] },
+  "requiredStatement": {
+    "label": { "none": ["Attribution"] },
+    "value": {
+      "none": ["No known copyright restrictions. No known restrictions on use."]
+    }
+  },
+  "thumbnail": [
+    {
+      "id": "https://ark.digitalcommonwealth.org/ark:/50959/n8712v26q/thumbnail",
+      "type": "Image",
+      "service": [
+        {
+          "@id": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:63960f677",
+          "@type": "ImageService2",
+          "profile": "level2"
+        }
+      ]
+    }
+  ],
+  "seeAlso": [{ "id": "http://example.org/undefined/1", "type": "unknown" }],
+  "items": [
+    {
+      "id": "https://ark.digitalcommonwealth.org/ark:/50959/n8712v26q/canvas/63960f677",
+      "type": "Canvas",
+      "height": 6924,
+      "width": 5787,
+      "label": { "none": [""] },
+      "annotations": [
+        {
+          "id": "https://ark.digitalcommonwealth.org/ark:/50959/n8712v26q/canvas/63960f677/page/p1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://ark.digitalcommonwealth.org/ark:/50959/n8712v26q/canvas/63960f677/f6af476a-8702-4e10-9cd4-913485f394db",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "body": [
+                {
+                  "created": "2026-03-20T20:00:24.138Z",
+                  "creator": "ian",
+                  "purpose": "commenting",
+                  "type": "TextualBody",
+                  "format": "text/html",
+                  "value": "<p>square</p>"
+                }
+              ],
+              "target": "https://ark.digitalcommonwealth.org/ark:/50959/n8712v26q/canvas/63960f677#xywh=3536,3412,959,1012"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://ark.digitalcommonwealth.org/ark:/50959/n8712v26q/canvas/3b594g977",
+      "type": "Canvas",
+      "height": 6929,
+      "width": 5814,
+      "label": { "none": [""] },
+      "annotations": [
+        {
+          "id": "https://ark.digitalcommonwealth.org/ark:/50959/n8712v26q/canvas/3b594g977/page/p1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://ark.digitalcommonwealth.org/ark:/50959/n8712v26q/canvas/3b594g977/aa830b27-8be4-46db-a9ff-f0750d123bd2",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "body": [
+                {
+                  "created": "2026-03-20T20:00:35.201Z",
+                  "creator": "ian",
+                  "purpose": "commenting",
+                  "type": "TextualBody",
+                  "format": "text/html",
+                  "value": "<p>complex polygon</p>"
+                }
+              ],
+              "target": {
+                "type": "SpecificResource",
+                "source": "https://ark.digitalcommonwealth.org/ark:/50959/n8712v26q/canvas/3b594g977",
+                "selector": {
+                  "type": "SvgSelector",
+                  "value": "<svg><polygon points=\"1886,3039 1893,3037 4401,3011 3355,5163 3142,3698\" /></svg>"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://ark.digitalcommonwealth.org/ark:/50959/n8712v26q/canvas/3t948x36k",
+      "type": "Canvas",
+      "height": 6978,
+      "width": 5821,
+      "label": { "none": [""] },
+      "annotations": [
+        {
+          "id": "https://ark.digitalcommonwealth.org/ark:/50959/n8712v26q/canvas/3t948x36k/page/p1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://ark.digitalcommonwealth.org/ark:/50959/n8712v26q/canvas/3t948x36k/169f3ec6-f17f-4a48-b27a-f5ab64964d1e",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "body": [
+                {
+                  "created": "2026-03-20T20:00:44.482Z",
+                  "creator": "ian",
+                  "purpose": "commenting",
+                  "type": "TextualBody",
+                  "format": "text/html",
+                  "value": "<p>circle</p>"
+                }
+              ],
+              "target": {
+                "type": "SpecificResource",
+                "source": "https://ark.digitalcommonwealth.org/ark:/50959/n8712v26q/canvas/3t948x36k",
+                "selector": {
+                  "type": "SvgSelector",
+                  "value": "<svg><ellipse cx=\"2727\" cy=\"3749\" rx=\"718\" ry=\"712\" /></svg>"
+                }
+              }
+            },
+            {
+              "id": "https://ark.digitalcommonwealth.org/ark:/50959/n8712v26q/canvas/3t948x36k/2beac30b-40f5-49bc-b701-c81691314792",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "body": [
+                {
+                  "created": "2026-03-20T20:01:02.945Z",
+                  "creator": "ian",
+                  "purpose": "commenting",
+                  "type": "TextualBody",
+                  "format": "text/html",
+                  "value": "<p>path</p>"
+                }
+              ]
+            },
+            {
+              "id": "https://ark.digitalcommonwealth.org/ark:/50959/n8712v26q/canvas/3t948x36k/d2d58648-9685-44a8-a373-69b5ee72e74a",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "body": [
+                {
+                  "created": "2026-03-20T20:41:52.065Z",
+                  "creator": "ian",
+                  "purpose": "commenting",
+                  "type": "TextualBody",
+                  "format": "text/html",
+                  "value": "<p>polygon 2</p>"
+                }
+              ],
+              "target": {
+                "type": "SpecificResource",
+                "source": "https://ark.digitalcommonwealth.org/ark:/50959/n8712v26q/canvas/3t948x36k",
+                "selector": {
+                  "type": "SvgSelector",
+                  "value": "<svg><polygon points=\"4786,4818 3602,5091 3571,5970 4914,5675\" /></svg>"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://ark.digitalcommonwealth.org/ark:/50959/n8712v26q/canvas/2r36z466g",
+      "type": "Canvas",
+      "height": 2018,
+      "width": 2846,
+      "label": { "none": [""] },
+      "annotations": [
+        {
+          "id": "https://ark.digitalcommonwealth.org/ark:/50959/n8712v26q/canvas/2r36z466g/page/p1",
+          "type": "AnnotationPage",
+          "items": []
+        }
+      ]
+    },
+    {
+      "id": "https://ark.digitalcommonwealth.org/ark:/50959/n8712v26q/canvas/3j336844p",
+      "type": "Canvas",
+      "height": 2988,
+      "width": 2360,
+      "label": { "none": [""] },
+      "annotations": [
+        {
+          "id": "https://ark.digitalcommonwealth.org/ark:/50959/n8712v26q/canvas/3j336844p/page/p1",
+          "type": "AnnotationPage",
+          "items": []
+        }
+      ]
+    },
+    {
+      "id": "https://ark.digitalcommonwealth.org/ark:/50959/n8712v26q/canvas/1544fw017",
+      "type": "Canvas",
+      "height": 2111,
+      "width": 1881,
+      "label": { "none": [""] },
+      "annotations": [
+        {
+          "id": "https://ark.digitalcommonwealth.org/ark:/50959/n8712v26q/canvas/1544fw017/page/p1",
+          "type": "AnnotationPage",
+          "items": []
+        }
+      ]
+    },
+    {
+      "id": "https://ark.digitalcommonwealth.org/ark:/50959/n8712v26q/canvas/pk02gj22w",
+      "type": "Canvas",
+      "height": 2107,
+      "width": 1875,
+      "label": { "none": [""] },
+      "annotations": [
+        {
+          "id": "https://ark.digitalcommonwealth.org/ark:/50959/n8712v26q/canvas/pk02gj22w/page/p1",
+          "type": "AnnotationPage",
+          "items": []
+        }
+      ]
+    },
+    {
+      "id": "https://ark.digitalcommonwealth.org/ark:/50959/n8712v26q/canvas/00003587d",
+      "type": "Canvas",
+      "height": 2092,
+      "width": 1855,
+      "label": { "none": [""] },
+      "annotations": [
+        {
+          "id": "https://ark.digitalcommonwealth.org/ark:/50959/n8712v26q/canvas/00003587d/page/p1",
+          "type": "AnnotationPage",
+          "items": []
+        }
+      ]
+    },
+    {
+      "id": "https://ark.digitalcommonwealth.org/ark:/50959/n8712v26q/canvas/9k422m14k",
+      "type": "Canvas",
+      "height": 2086,
+      "width": 1864,
+      "label": { "none": [""] },
+      "annotations": [
+        {
+          "id": "https://ark.digitalcommonwealth.org/ark:/50959/n8712v26q/canvas/9k422m14k/page/p1",
+          "type": "AnnotationPage",
+          "items": []
+        }
+      ]
+    },
+    {
+      "id": "https://ark.digitalcommonwealth.org/ark:/50959/n8712v26q/canvas/66831919m",
+      "type": "Canvas",
+      "height": 2103,
+      "width": 1862,
+      "label": { "none": [""] },
+      "annotations": [
+        {
+          "id": "https://ark.digitalcommonwealth.org/ark:/50959/n8712v26q/canvas/66831919m/page/p1",
+          "type": "AnnotationPage",
+          "items": []
+        }
+      ]
+    }
+  ]
+}
