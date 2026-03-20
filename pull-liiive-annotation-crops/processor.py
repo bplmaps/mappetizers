@@ -1,5 +1,5 @@
 # Python script that takes an input `manifest.json` downloaded from Liiive
-# extracts and crops to SVG polygon an image for every 
+# extracts and crops to SVG polygon an image for every image
 # very brittle, not sure if it will work for shapes other than Polygons (e.g. rectangles)
 # absolutely vibecoded and not suitable for robust use
 
