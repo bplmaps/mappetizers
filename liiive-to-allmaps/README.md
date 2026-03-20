@@ -18,9 +18,12 @@ Warps commenting annotations from a liiive/IIIF manifest into geographic GeoJSON
 
 ## Shape classification
 
-- POLYGON: <polygon>, <ellipse>, <rect>, <circle>, or an xywh fragment selector
-- LINE: <polyline>, <path>
-- No selector / unsupported element: skipped with a warning
+| Geometry | Selector                                                                       |
+| -------- | ------------------------------------------------------------------------------ |
+| POLYGON  | `<polygon>`, `<ellipse>`, `<rect>`, `<circle>`, or an `xywh` fragment selector |
+| LINE     | `<polyline>`, `<path>`                                                         |
+
+No selector / unsupported element: skipped with a warning
 
 ## Image ID matching
 
