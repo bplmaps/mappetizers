@@ -3,9 +3,9 @@ import datetime
 import csv
 import json
 
-searchString = "https://collections.leventhalmap.org/search?f[collection_ark_id_ssim][]=commonwealth:dn39z222j"
-scrapeRawJson = True
-fields = ["id"] # if scrapeRawJson is True, this is ignored
+searchString = "https://collections.leventhalmap.org/search?"
+scrapeRawJson = False
+fields = ["id","extent_tsi"] # if scrapeRawJson is True, this is ignored
 
 complete = False
 page = 1
@@ -28,26 +28,27 @@ with open("./scrape_results_{}.{}".format(datetime.datetime.now(), suffix), 'w+'
 
         thisPageResult = r.json()
 
-        for doc in thisPageResult['response']['docs']:
-
+        for record in thisPageResult['data']:
+            doc = record['attributes']
 
             if scrapeRawJson:
                 collector.append(doc)
 
-
             else:
                 outFile.write(doc["id"])
                 for f in fields:
-                    if isinstance(doc[f], list):
-                        p = " || ".join(doc[f])
+                    if f not in doc:
+                        p = ""
                     else:
-                        p = doc[f]
+                        if isinstance(doc[f], list):
+                            p = " || ".join(doc[f])
+                        else:
+                            p = doc[f]
                     outFile.write("\t{}".format(p))
                 outFile.write("\n")
 
-
-        complete = True if thisPageResult['response']['pages']['last_page?'] else False
-        page = thisPageResult['response']['pages']['next_page']
+        complete = True if thisPageResult['meta']['pages']['last_page?'] else False
+        page = thisPageResult['meta']['pages']['next_page']
 
     if scrapeRawJson:
         json.dump(collector, outFile)
